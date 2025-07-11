@@ -10,3 +10,6 @@ python-dotenv
 icalendar
 pytz
 google-generativeai
+transformers
+sentence-transformers
+accelerate
