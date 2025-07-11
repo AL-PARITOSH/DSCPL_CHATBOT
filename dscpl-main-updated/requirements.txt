@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+ollama
+faiss-cpu
+requests
+memory
+sentence-transformers
+langchain-google-genai 
+python-dotenv
+icalendar 
+pytz
